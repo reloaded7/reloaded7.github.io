@@ -194,8 +194,8 @@ sidebar:
   - title: WuK # codeforces
     href: //codeforces.com/profile/WuK
     class: 'fas fa-chart-bar fw'
-  - title: WuK # vjudge
-    href: //vjudge.net/user/WuK
+  - title: vjudge# vjudge
+    href: //vjudge.net/user/reloaded7
     class: 'fas fa-smile fa-fw'
   - title: 2456880968 # qq
     class: 'fab fa-qq fa-fw'
