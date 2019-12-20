@@ -176,7 +176,7 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
     value: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/js/baidu_push.js
 
 sidebar:
-  avatar: # 侧边栏显示的头像
+  avatar: C:\Users\Administrator\Desktop\1\reloaded7.github.io\头像\cat.jpg# 侧边栏显示的头像
     enable: true
     img: https://github.com/reloaded7/reloaded7.github.io/blob/master/%E5%A4%B4%E5%83%8F/cat.jpg# 头像的地址
     info: <br/>2016级在读<br/>英语专业<br/>自由<br/>热爱<br/> # 头像背后的信息
