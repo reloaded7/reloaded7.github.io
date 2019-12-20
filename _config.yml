@@ -7,7 +7,7 @@ baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上
 
 title: reloaded7
 url: https://reloaded7.github.io
-author: WuK
+author: reloaded7
 
 head: # 删改前确定知道自己在做什么
 - tag: meta # Enable responsiveness on mobile devices
