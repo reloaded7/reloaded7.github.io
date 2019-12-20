@@ -4,15 +4,13 @@ title: Welcome to my blog
 ---
 ## Contact
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+- Address: ** **Chongjiao road, Nanshan street, Nanan district, Chongqing , China****
 - Phone: **+86 17623865126**
 - E-mail:
-  - **wu.kan@foxmail.com**
-  - **wukan3@mail2.sysu.edu.cn**
-  - **im.wu.kan@gmail.com**
-- WeChat: **Wu-_-Kan**
-- QQ: **942759535**
-- Blog: **<https://wu-kan.github.io>**
+  - **2456880968@qq.com**
+- WeChat: **reloadedlulu**
+- QQ: **2456880968**
+- Blog: **<https://reloaded7.github.io>**
 
 ## Education
 
