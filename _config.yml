@@ -182,14 +182,14 @@ sidebar:
     info: <br/>2016级在读<br/>英语专业<br/>自由<br/>热爱<br/> # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
-  - title: rss
-    href: /atom.xml
+  - title: 网易云
+    href: //music.163.com/#/my/m/music/playlist?id=2168152466
     class: 'fas fa-rss fa-fw'
-  - title: wu.kan@foxmail.com # email
-    href: mailto:wu.kan@foxmail.com
+  - title: 2456880968@qq.com # email
+    href: 2456880968@qq.com
     class: 'fas fa-envelope fa-fw'
   - title: github
-    href: //github.com/wu-kan
+    href: //github.com/reloaded7
     class: 'fab fa-github fa-fw'
   - title: WuK # codeforces
     href: //codeforces.com/profile/WuK
