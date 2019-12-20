@@ -191,9 +191,6 @@ sidebar:
   - title: github
     href: //github.com/reloaded7
     class: 'fab fa-github fa-fw'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
-    class: 'fas fa-chart-bar fw'
   - title: vjudge# vjudge
     href: //vjudge.net/user/reloaded7
     class: 'fas fa-smile fa-fw'
