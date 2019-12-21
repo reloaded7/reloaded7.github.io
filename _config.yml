@@ -286,7 +286,7 @@ post:
     - id: qq
       src: //cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.4/qq支付.png
     - id: alipay
-      src: //cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.4/支付宝支付.png
+      src: //cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.4/支付宝支付.jpg
 
 valine:
   enable: true
