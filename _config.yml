@@ -198,8 +198,10 @@ sidebar:
     href: //vjudge.net/user/reloaded7
     class: 'fas fa-smile fa-fw'
   - title: 2456880968 # qq
+    href://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.3/qrcode_1576841503763.jpg
     class: 'fab fa-qq fa-fw'
   - title: reloadedlulu # weixin
+    href://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.3/mmqrcode1576841527049.png
     class: 'fab fa-weixin fa-fw'
   - title: zhihu
     href: //www.zhihu.com/people/wu.kan/activities
