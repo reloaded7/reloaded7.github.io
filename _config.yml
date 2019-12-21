@@ -200,7 +200,6 @@ sidebar:
   - title: 2456880968 # qq
     class: 'fab fa-qq fa-fw'
   - title: reloadedlulu # weixin
-    href://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.3/mmqrcode1576841527049.png
     class: 'fab fa-weixin fa-fw'
   - title: zhihu
     href: //www.zhihu.com/people/wu.kan/activities
