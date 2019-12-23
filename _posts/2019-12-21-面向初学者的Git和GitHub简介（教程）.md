@@ -272,11 +272,11 @@ mnelson:myproject mnelson$ git branch
 
 如果要在GitHub上创建新的仓库，请登录并转到GitHub主页。 你会看到一个绿色的“+ New repository ”按钮：
 
-![[](https://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.7/git1.webp.jpg)]()
+![[](https://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.7/git1.webp.jpg)](https://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.7/git1.webp.jpg)
 
  单击按钮后，GitHub将要求你命名仓库并提供简短描述： 
 
-git2
+![](https://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.7/git2.webp.jpg)
 
 填写完信息后，请按“Create repository”按钮以创建新的仓库。
 
@@ -352,7 +352,7 @@ To https://github.com/cubeton/mynewrepository.git
 
 如果刷新GitHub页面，你会看到注释，说你的名字的分支刚刚被推送到仓库中。 你也可以单击”branches“链接以查看此处列出的分支。
 
-git3
+![](https://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.7/git3.webp.jpg)
 
  现在，单击上方屏幕截屏中的绿色按钮。 我们将提出**发送请求**！ 
 
@@ -362,11 +362,11 @@ git3
 
 这是PR页面在你提交之前的样子：
 
-git4
+![](https://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.7/git4.webp.jpg)
 
  这就是你提交PR请求后的样子 ： 
 
-git5
+![](https://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.7/git5.webp.jpg)
 
 你可能会在底部看到一个绿色的大按钮，上面显示“Merge pull request”。 单击这意味着你将你的更改合并到主分支中。
 
@@ -380,17 +380,17 @@ git5
 
 继续，然后单击绿色的“合并拉取请求”按钮。这会将你的更改合并到主分支中。
 
-git6
+![](https://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.7/git6.webp.jpg)
 
 当你完成后，我建议你删除你的分支（太多的分支可能会变得混乱），所以也要点击那个灰色的“删除分支”按钮。
 
 你可以通过单击新仓库第一页上的“提交”链接，仔细检查你的提交是否已合并。
 
-git7
+![](https://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.7/git7.webp.jpg)
 
  这将显示该分支中所有提交的列表。你可以看到我刚刚合并的那个（Merge pull request＃2）。 
 
-git8
+![](https://cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.7/git8.webp.jpg)
 
 你还可以在右侧看到提交的[**hash码**](https://git-scm.com/docs/git-hash-object)。Hash码是该特定提交的唯一标识符。它对于引用特定提交和撤消更改（使用 `**[git revert](http://git-scm.com/docs/git-revert)** ` 命令撤回），这非常有用。
 
