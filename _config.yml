@@ -194,8 +194,8 @@ sidebar:
   - title: weibo # codeforces
     href: //weibo.com/u/5859485245
     class: 'fas fa-chart-bar fw'
-  - title: vjudge# vjudge
-    href: //vjudge.net/user/reloaded7
+  - title: 个人简历# resume
+    href: //cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.8/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf
     class: 'fas fa-smile fa-fw'
   - title: 2456880968 # qq
     href: //cdn.jsdelivr.net/gh/reloaded7/zhangzhizhi@2.3/mmqrcode1576841527049.png
